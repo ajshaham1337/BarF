@@ -1,8 +1,8 @@
 ## Bar[F]
-### A salary man gets out of work, and begins his afternoon drinking shenanigans.
-Live demo: https://dream-bean.github.io/EndlessRunner/
+### A typical salaryman gets off work, and begins his afternoon drinking shenanigans.
 
 Programmer & Project Manager: Alexander Shaham  
-Artists: Brandon Leoung and Terence So
+Environment Art: Brandon Leoung
+Character Art: Terence So
 
 Coded in JavaScript, using Phaser3 framework.  
