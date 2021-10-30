@@ -1,5 +1,5 @@
-## Bar[F]
-### A typical salaryman gets off work, and begins his afternoon drinking shenanigans.
+# Bar[F]
+A typical salaryman gets off work, and begins his afternoon drinking shenanigans.   
 
 Programmer & Project Manager: Alexander Shaham  
 Environment Art: Brandon Leoung  
